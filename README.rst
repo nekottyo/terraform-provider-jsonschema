@@ -22,7 +22,7 @@ On |terraform|_ versions 0.13+ use:
   terraform {
     required_providers {
       jsonschema = {
-        source = "xxxbobrxxx/jsonschema"
+        source = "JeffAshton/jsonschema"
         version = "0.1.0"
       }
     }
@@ -78,7 +78,7 @@ Running tests:
 .. _terraform-install-plugin: https://www.terraform.io/docs/plugins/basics.html#installing-a-plugin
 
 .. |user-docs| replace:: User Documentation
-.. _user-docs: https://registry.terraform.io/providers/xxxbobrxxx/jsonschema/latest/docs
+.. _user-docs: https://registry.terraform.io/providers/JeffAshton/jsonschema/latest/docs
 
 .. |json-schema| replace:: json-schema
 .. _json-schema: https://json-schema.org/
